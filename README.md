@@ -1,4 +1,6 @@
-#Weather Website
+<h1>Responsive Weather Website</h1>
 
-Front-End : HTML/CSS(Bootstrap)/JS(react,react-spring)
-Back-End : Ajax to get information from weather unlocked api.
+<li>Front-End : HTML/CSS(Bootstrap)/JS(react,react-spring)
+<li>Back-End : Ajax to get information from weather unlocked api.
+
+<img src=''
