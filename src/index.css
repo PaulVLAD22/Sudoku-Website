@@ -1,0 +1,76 @@
+html {
+  font-size: 1rem;
+}
+body {
+  margin: 0;
+  font-family:'Open Sans';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color:#f1f5f8;
+}
+body{
+  width:100vw;
+  height:100vh;
+}
+.row{
+  padding-left:40px;
+  padding-right:40px;
+}
+.my-col{
+  border-radius:2rem;
+  margin-bottom:40px;
+}
+.sun{
+  background-image: url("./assets/sun.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+.snow{
+  background-image: url("./assets/snow5.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+.rain{
+  background-image: url("./assets/rain.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+.clouds{
+  background-image: url("./assets/clouds.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+.display-4{
+  font-size:1.9rem;
+  font-weight: bold;
+  font-style: italic;
+}
+.display-1{
+  font-size:3rem;
+  font-weight: 400;
+}
+.btn{
+  font-size:1.5rem;
+}
+.display-2{
+  font-size:5rem;
+  font-style: italic;
+  font-weight: bold;
+}
+.display-3{
+  font-size:2.4rem;
+}
+.temps{
+  font-size:2rem;
+}
+.btn-outline-secondary{
+  margin-left:2rem;
+  margin-right:2rem;
+}
+@media only screen and (max-width: 600px) {
+  
+}
